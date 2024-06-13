@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './NftCard.css';
+import './NftCard.module.css';
 interface NftCardProps {
   imgUrl: string;
   title: string;
