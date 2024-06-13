@@ -3,7 +3,6 @@
 import React, { useEffect, useState } from 'react';
 import Modal from 'react-modal';
 import '../wallet.css';
-import '../about/NftCard.css';
 interface WalletModalProps {
   isOpen: boolean;
   onRequestClose: () => void;
