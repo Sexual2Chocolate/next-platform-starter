@@ -12,16 +12,14 @@ const Collection = () => {
           Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempo.
         </p>
         <div className="collection-author">
-          <img className="author-image" src="path-to-profile-picture" alt="author" />
-          <div className="author-info">
+          <img className="author-image" src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg" alt="author" />          <div className="author-info">
             <div className="author-name">Léa Jacquot</div>
             <div className="author-role">Artist</div>
           </div>
         </div>
       </div>
       <div className="collection-image">
-        <img src="path-to-collection-image" alt="Night Sky" />
-      </div>
+        <img src="https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4=" alt="Night Sky" />      </div>
     </div>
   );
 }
