@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import WalletModal from '../walletPage/walletModal';
-import './NftCard.module.css';
+import './Nftcard.module.css';
 interface nfts {
   imgUrl: any;
   title?: string;
