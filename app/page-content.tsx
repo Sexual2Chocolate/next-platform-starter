@@ -57,54 +57,54 @@ const PageContent = () => {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     },
     {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     },
     {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     },
     {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     },
     {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     }, {
       title: 'Collection',
       name: 'Night Sky',
       description: 'Lorem ipsum dolor sit amet, consectetur adicing elit, sed do eiusmod tempor.',
-      authorImage: 'path-to-profile-picture',
+      authorImage: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/male_man_people_person_avatar_white_tone_icon_159363.png',
       authorName: 'Léa Jacquot',
       authorRole: 'Artist',
-      collectionImage: 'path-to-collection-image'
+      collectionImage: 'https://media.istockphoto.com/id/521011652/photo/night-scene-milky-way-background.jpg?s=2048x2048&w=is&k=20&c=KwOkBbE2iYE0PdFbTP-3QLslZ6iGXeKpQ3anqlIqaP4='
     },
   ];
 
