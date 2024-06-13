@@ -21,7 +21,9 @@ const Slideshow = ({ collections }: { collections: any[] }) => {
           className={`slides ${currentIndex === index ? 'active' : ''}`}
         >
           {currentIndex === index && <Collection {...collection} />}
-        </div>
+          <a href="./about">
+          <button className="button" >Go to collection</button>
+          </a>        </div>
       ))}
       <div className="progress-container">
         {collections.map((_, index) => (
